@@ -1,0 +1,6 @@
+{
+  "name": "Manifesto",
+  "description": "A worker-owned, anti-capitalist video game launcher and digital store with 0% platform cut and collective mutual aid chest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
